@@ -2,7 +2,7 @@
 
 A digital-camera-style web app with 40 live retro filters (CRT, VHS, NTSC, Code Rain, Webcam '95, Glitch, Super 8, Thermal, ASCII and more). Take photos, record videos, and download them directly. Single HTML file, no dependencies, no build step.
 
-Inspired by [Retro Rad](https://retro-rad.higgsfield.app/). Filters are re-implemented in real time with the Canvas 2D API instead of AI image generation.
+Link:-https://ragacam.netlify.app/
 
 ## Features
 - Live camera preview with filters applied in real time (front/back camera)
